@@ -1,0 +1,11 @@
+{
+  "gui.cpd.mode_player": "MyPosition",
+  "gui.cpd.mode_block": "BlockPosition",
+  "gui.cpd.mode_nether": "NetherBlockPosition",
+  "gui.cpd.copy": "Copy",
+  "gui.cpd.copy_to": "CopyToInputBox",
+  "key.cpd.player": "CopyPosition",
+  "key.cpd.block": "CopyBlockPosition",
+  "chat.cpd.player": "Copied current position to clipboard:\"%s\"",
+  "chat.cpd.block": "Copied current block position to clipboard:\"%s\""
+}

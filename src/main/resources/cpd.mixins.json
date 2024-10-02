@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.cpd.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "cpd.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ChatScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

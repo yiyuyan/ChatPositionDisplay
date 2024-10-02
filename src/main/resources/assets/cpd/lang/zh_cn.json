@@ -1,0 +1,11 @@
+{
+  "gui.cpd.mode_player": "我的位置",
+  "gui.cpd.mode_block": "方块位置",
+  "gui.cpd.mode_nether": "地狱方块位置",
+  "gui.cpd.copy": "复制",
+  "gui.cpd.copy_to": "复制到输入框",
+  "key.cpd.player": "复制坐标",
+  "key.cpd.block": "复制方块坐标",
+  "chat.cpd.player": "已复制当前位置坐标到剪贴板:\"%s\"",
+  "chat.cpd.block": "已复制当前方块位置坐标到剪贴板:\"%s\""
+}
